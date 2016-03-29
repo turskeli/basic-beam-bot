@@ -2,6 +2,6 @@
 
 Clone repo
 
-* npm install
-* add user/channel info to config block
-* node index.js
+1. npm install
+2. add user/channel info to config block
+3. node index.js or npm start
