@@ -1,0 +1,15 @@
+{
+  "name": "base-beam-bot",
+  "version": "0.0.1",
+  "description": "Base structure for a beam bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "turskeli",
+  "license": "ISC",
+  "dependencies": {
+    "beam-client-node": "^0.3.0",
+    "beam-interactive-node": "^0.2.5"
+  }
+}
