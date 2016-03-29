@@ -4,6 +4,7 @@
   "description": "Base structure for a beam bot",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "turskeli",
